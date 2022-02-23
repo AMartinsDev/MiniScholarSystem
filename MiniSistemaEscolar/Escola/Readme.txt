@@ -1,0 +1,1 @@
+Sistema de cadastro escolar feito em linguagem C para fins de estudo acadêmico da matéria de laboratório de programação (INF029) do IFBA
